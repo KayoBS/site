@@ -1,0 +1,20 @@
+#menu_lateral_esquerdo{
+	height: 60px;
+	width: 60px;
+	background-color: #a0a0a0;
+	position: fixed;
+		bottom: 0px;
+		left: 0px;
+}
+p{
+	color: #ffffff;
+}
+header{
+	position: relative;
+	background-color: #000000;
+	height: 50px;
+}
+.container{
+	margin: 0 auto;
+	width: 520px;
+}
