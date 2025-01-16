@@ -1,0 +1,33 @@
+.btxt{
+	/*basic text*/
+	color: #ffffff;
+	text-align: left;
+}
+.ctxt{
+	/*container text/texto do conteúdo*/
+	font-size: 10px;
+}
+body{
+	font-family: sans-serif;
+}
+p{
+	color: #ffffff;
+}
+h1{
+	color: #ffffff;
+}
+h2{
+	color: #ffffff;
+}
+h3{
+	color: #ffffff;
+}
+h4{
+	color: #ffffff;
+}
+h5{
+	color: #ffffff;
+}
+h6{
+	color: #ffffff;
+}
