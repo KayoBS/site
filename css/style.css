@@ -5,14 +5,18 @@
 	margin: auto auto;
 	background-color: #505050;
 }
-.header{
+header{
 	position: absolute;
 	height: 64px;
 	width: 640px;
 	top: 0px;
 	background-color: #c0c0c0;
 }
+<<<<<<< HEAD
 .header h1{
+=======
+header h1{
+>>>>>>> dev
 	text-align: center	;
 }
 .left_menu{
@@ -42,3 +46,11 @@
 .container ul{
 	list-style-type: none;
 }
+<<<<<<< HEAD
+=======
+
+a {
+	color: #000000;
+	text-decoration: none;
+}
+>>>>>>> dev
