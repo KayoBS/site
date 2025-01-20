@@ -5,14 +5,14 @@
 	margin: auto auto;
 	background-color: #505050;
 }
-.header{
+header{
 	position: absolute;
 	height: 64px;
 	width: 640px;
 	top: 0px;
 	background-color: #c0c0c0;
 }
-.header h1{
+header h1{
 	text-align: center	;
 }
 .left_menu{
@@ -41,4 +41,9 @@
 }
 .container ul{
 	list-style-type: none;
+}
+
+a {
+	color: #000000;
+	text-decoration: none;
 }
